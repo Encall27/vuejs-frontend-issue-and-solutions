@@ -1,2 +1,2 @@
-# VueBootstrap-Common-Challenges
-Record all challenges I encountered when using VueBootstrap for Frontend development
+# Vuejs-frontend-issue-and-solutions
+Record all challenges I encountered when using VueBootstrap / Element UI in Vuejs for Frontend development
